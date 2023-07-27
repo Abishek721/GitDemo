@@ -1,1 +1,2 @@
 dummy file for the DEMO of Git
+Also Welcome to the Wonderland of GIT
